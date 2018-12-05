@@ -1,0 +1,15 @@
+{
+  "name": "broccoli-tutorial",
+  "version": "1.0.0",
+  "description": "Example Broccoli pipeline",
+  "scripts": {
+    "start": "broccoli serve",
+    "serve": "broccoli serve",
+    "build": "broccoli build --overwrite"
+  },
+  "dependencies": {
+    "broccoli": "2.0.1",
+    "broccoli-cli": "1.0.0"
+  },
+  "keywords": []
+}
